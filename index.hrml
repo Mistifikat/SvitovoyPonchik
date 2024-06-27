@@ -1,19 +1,12 @@
-<!DOCTYPE html>
-<html lang='uk'>
+<html>
 <head>
-    <meta charset='UTF-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <title>Магазин пончиків</title>
 </head>
 <style>
-    body {
-        font-family: Comic-sans;
-    }
-</style>
+        #redtext {
+            color: red;
+        }
+    </style>
 <body>
-<p><h1>Світовий Пончик<h1></p>
-<img src="/uploads/2023/02/donut.png">
-<p>Склонися перед ним</p>
+    <h1 id="redtext">Svit ponchikov</h1>
 </body>
 </html>
